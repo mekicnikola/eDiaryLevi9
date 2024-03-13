@@ -24,5 +24,11 @@ namespace EDiary
             }
             return integerNumber;
         }
+
+        public static bool IsStudentListInputValid(string input)
+        {
+            var names = input.Split(new[] { ", " }, StringSplitOptions.RemoveEmptyEntries);
+            return names.All(name => name.Contains(" ") && !name.EndsWith(",") && name.Split(' ').Length == 2);
+        }
     }
 }

@@ -7,7 +7,7 @@ using EDiary.Subject;
 
 namespace EDiary
 {
-    class SubjectManualLoader: ISubjectLoader
+    public class SubjectManualLoader: ISubjectLoader
     {
 
         public IEnumerable<Subject.Subject> GetAllSubjects()
@@ -21,7 +21,7 @@ namespace EDiary
                 },
                 new Subject.Subject
                 {
-                    Name = "Phisics",
+                    Name = "Physics",
                     Professors = new List<string> { "Marko Marković", "Ana Anić" }
                 },
                 new Subject.Subject

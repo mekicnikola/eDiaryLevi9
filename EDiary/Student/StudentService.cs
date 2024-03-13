@@ -9,7 +9,7 @@ namespace EDiary
         public static readonly StudentJsonService StudentJsonService = new StudentJsonService();
         public void AddNewStudents(string userInput)
         {
-            if (!IsInputValid(userInput))
+            if (!TextService.IsStudentListInputValid(userInput))
             {
                 throw new FormatException($"{Constants.WarningEmoji} Insert must be in pattern 'Name Last Name, Name Last Name, ...");
             }
@@ -37,7 +37,6 @@ namespace EDiary
                     Console.WriteLine($"{Constants.WarningEmoji} Student '{firstName} {lastName}' is already in the system");
                     continue;
                 }
-
                 int newId;
                 do
                 {
@@ -121,9 +120,8 @@ namespace EDiary
         private static string GetDescriptiveGrade(double averageGrade)
         {
             if (averageGrade < 2.0) return "Insufficient";
-            else if (averageGrade < 3.5) return "Sufficient";
-            else if (averageGrade < 4.5) return "Very good";
-            else return "Excellent";
+            if (averageGrade < 3.5) return "Sufficient";
+            return averageGrade < 4.5 ? "Very good" : "Excellent";
         }
 
         private static Student FindStudentByName(string fullName)
@@ -145,19 +143,12 @@ namespace EDiary
            StudentJsonService.WriteStudentsToFile(students);
         }
 
-
         private static void DisplaySubjects(IReadOnlyList<Subject.Subject> subjects)
         {
             for (var i = 0; i < subjects.Count; i++)
             {
                 Console.WriteLine($"{i + 1}. {subjects[i].Name}");
             }
-        }
-
-        private static bool IsInputValid(string input)
-        {
-            var names = input.Split(new[] { ", " }, StringSplitOptions.RemoveEmptyEntries);
-            return names.All(name => name.Contains(" ") && !name.EndsWith(",") && name.Split(' ').Length == 2);
         }
     }
 }
