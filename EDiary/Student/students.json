@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Boban",
+    "LastName": "Rajovic",
+    "StartingYear": 2024,
+    "Grades": {
+      "Mathematics": [
+        5,
+        4,
+        1
+      ],
+      "Phisics": [
+        2
+      ]
+    }
+  },
+  {
+    "Id": 2,
+    "FirstName": "Serif",
+    "LastName": "Ndiaje",
+    "StartingYear": 2024,
+    "Grades": {
+      "Chemistry": [
+        5
+      ],
+      "IT": [
+        5
+      ]
+    }
+  },
+  {
+    "Id": 113,
+    "FirstName": "Nikola",
+    "LastName": "Mekic",
+    "StartingYear": 2024,
+    "Grades": null
+  },
+  {
+    "Id": 362,
+    "FirstName": "Nikola",
+    "LastName": "Nikolic",
+    "StartingYear": 2024,
+    "Grades": null
+  }
+]
