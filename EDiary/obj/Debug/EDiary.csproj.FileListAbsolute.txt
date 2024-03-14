@@ -58,3 +58,7 @@ C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\obj\Debug\EDiary.csproj.C
 C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\obj\Debug\EDiary.csproj.Up2Date
 C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\obj\Debug\EDiary.exe
 C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\obj\Debug\EDiary.pdb
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\bin\Debug\EntityFramework.dll
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\bin\Debug\EntityFramework.xml
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\EDiary\bin\Debug\EntityFramework.SqlServer.xml

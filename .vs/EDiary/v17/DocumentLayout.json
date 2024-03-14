@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\ediary\\student\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\student\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\ediary\\subject\\isubjectloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\subject\\isubjectloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\ediary\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\ediary\\student\\studentjsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\student\\studentjsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\ediary\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\model\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\model\\enginetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\ediary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\ediary\\subject\\subjectmanualloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\subject\\subjectmanualloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\ediary\\student\\istudentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4AA6AA-C04B-4B92-B4AD-FAFFEED88F5E}|EDiary\\EDiary.csproj|solutionrelative:ediary\\student\\istudentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|c:\\users\\nikolamekic\\desktop\\webapi\\ediarylevi9\\codefirstparttwo\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BB99D-5C01-4CD0-866E-9D2CDB2FD0C5}|CodeFirstPartTwo\\CodeFirstPartTwo.csproj|solutionrelative:codefirstparttwo\\model\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISubjectLoader.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\ISubjectLoader.cs",
-              "RelativeDocumentMoniker": "EDiary\\Subject\\ISubjectLoader.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\ISubjectLoader.cs",
-              "RelativeToolTip": "EDiary\\Subject\\ISubjectLoader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T15:19:20.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TextService.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\TextService.cs",
-              "RelativeDocumentMoniker": "EDiary\\TextService.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\TextService.cs",
-              "RelativeToolTip": "EDiary\\TextService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\Car.cs",
+              "RelativeToolTip": "CodeFirstPartTwo\\Model\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T15:12:56.642Z",
+              "WhenOpened": "2024-03-14T17:54:47.121Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\Subject.cs",
-              "RelativeDocumentMoniker": "EDiary\\Subject\\Subject.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\Subject.cs",
-              "RelativeToolTip": "EDiary\\Subject\\Subject.cs",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\packages.config",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\packages.config",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\packages.config",
+              "RelativeToolTip": "CodeFirstPartTwo\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:56:25.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentJsonService.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\StudentJsonService.cs",
-              "RelativeDocumentMoniker": "EDiary\\Student\\StudentJsonService.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\StudentJsonService.cs",
-              "RelativeToolTip": "EDiary\\Student\\StudentJsonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:47:02.213Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-14T18:33:45.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\StudentService.cs",
-              "RelativeDocumentMoniker": "EDiary\\Student\\StudentService.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\StudentService.cs",
-              "RelativeToolTip": "EDiary\\Student\\StudentService.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAowJMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:45:53.291Z",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\App.config",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\App.config",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\App.config",
+              "RelativeToolTip": "CodeFirstPartTwo\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-14T18:07:02.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubjectManualLoader.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\SubjectManualLoader.cs",
-              "RelativeDocumentMoniker": "EDiary\\Subject\\SubjectManualLoader.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Subject\\SubjectManualLoader.cs",
-              "RelativeToolTip": "EDiary\\Subject\\SubjectManualLoader.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAARAAAA",
+              "DocumentIndex": 4,
+              "Title": "EngineType.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\EngineType.cs",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\Model\\EngineType.cs",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\EngineType.cs",
+              "RelativeToolTip": "CodeFirstPartTwo\\Model\\EngineType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:53:47.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IStudentLoader.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\IStudentLoader.cs",
-              "RelativeDocumentMoniker": "EDiary\\Student\\IStudentLoader.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Student\\IStudentLoader.cs",
-              "RelativeToolTip": "EDiary\\Student\\IStudentLoader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:46:55.476Z",
+              "WhenOpened": "2024-03-14T17:55:39.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Program.cs",
-              "RelativeDocumentMoniker": "EDiary\\Program.cs",
-              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\EDiary\\Program.cs",
-              "RelativeToolTip": "EDiary\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA8AAAAXAAAA",
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\Engine.cs",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\Model\\Engine.cs",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Model\\Engine.cs",
+              "RelativeToolTip": "CodeFirstPartTwo\\Model\\Engine.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:45:15.851Z",
+              "WhenOpened": "2024-03-14T17:55:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstPartTwo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\NikolaMekic\\Desktop\\webAPI\\eDiaryLevi9\\CodeFirstPartTwo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeFirstPartTwo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:50:26.77Z",
               "EditorCaption": ""
             }
           ]

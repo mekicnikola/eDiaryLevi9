@@ -1,0 +1,14 @@
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\CodeFirstPartTwo.exe.config
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\CodeFirstPartTwo.exe
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\CodeFirstPartTwo.pdb
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\EntityFramework.dll
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\EntityFramework.xml
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.csproj.AssemblyReference.cache
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirs.ABC4B2D2.Up2Date
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.exe
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.pdb
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.Migrations.Migration1.resources
+C:\Users\NikolaMekic\Desktop\webAPI\eDiaryLevi9\CodeFirstPartTwo\obj\Debug\CodeFirstPartTwo.csproj.GenerateResource.cache
